@@ -6,10 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
-
 import futbol.Futbolista;
-import futbol.Jugador;
-
 
 @TestMethodOrder(MethodOrderer.Alphanumeric.class)
 public class TestFutbolista {
